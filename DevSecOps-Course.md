@@ -4,7 +4,7 @@
 | :--- | :---: | :--- | :--- |
 | **Linux** | 5 hrs | Shell scripting, file permissions, process management, SSH | Bash automation scripts, CLI proficiency |
 | **Python** | 10 hrs | Syntax, data structures, file handling, libraries (`requests`, `os`) | System automation scripts, API integration |
-| **GitHub** | 3 hrs | Git fundamentals, branching strategies, PR workflows, merging | Repository setup, collaborative Git workflow |
+| **GitHub** | 5 hrs | Git fundamentals, branching strategies, PR workflows, merging | Repository setup, collaborative Git workflow |
 | **Azure** | 10 hrs | VNets, VMs, IAM (Entra ID), Blob Storage, App Services | Cloud infrastructure deployment, security configuration |
 | **GitHub Actions (CI/CD)** | 5 hrs | Workflows, triggers, secrets, build & release pipelines | Automated build and deployment pipelines |
 | **Ansible** | 5 hrs | Playbooks, inventory, roles, modules, configuration management | Automated VM configuration & provisioning |
