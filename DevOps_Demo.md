@@ -1,7 +1,5 @@
 # 30-Minute DevOps Demo Session Guide for Beginners
 
-This guide provides a structured script, key talking points, real-world analogies, and timing guidelines for delivering a highly engaging 30-minute introductory demo on DevOps.
-
 ---
 
 ## Quick Timeline Overview
@@ -15,9 +13,6 @@ This guide provides a structured script, key talking points, real-world analogie
 ---
 
 ## 1. Introduction & The "Why DevOps?" Story (5 Minutes)
-
-### Speaker Goal
-Capture attention immediately by explaining the real-world problem DevOps solves without using confusing technical terms.
 
 ### Key Talking Points & Script
 
@@ -38,9 +33,6 @@ Capture attention immediately by explaining the real-world problem DevOps solves
 
 ## 2. The DevOps Lifecycle Made Simple (10 Minutes)
 
-### Speaker Goal
-Show how software moves from an idea to production using a simple 5-step loop.
-
 ```
 [ Plan & Code ] ---> [ Build & Test ] ---> [ Package ] ---> [ Deploy ] ---> [ Monitor ]
    (Git/GitHub)          (GitHub Actions)          (Docker)     (Kubernetes)    (Grafana)
@@ -60,7 +52,7 @@ Show how software moves from an idea to production using a simple 5-step loop.
    * *Analogy:* A shipping container.
    * Instead of worrying whether code works on "Windows" or "Linux", Docker packages the application with everything it needs so it runs smoothly everywhere.
 
-4. **Step 4: Deployment & Scaling (Kubernetes & Cloud - AWS)**
+4. **Step 4: Deployment & Scaling (Kubernetes & Cloud - Azure)**
    * *Analogy:* Traffic management system.
    * If 10,000 users suddenly open your app during a festival sale, Kubernetes automatically launches extra servers to handle the load, then scales down when traffic drops.
 
@@ -71,9 +63,6 @@ Show how software moves from an idea to production using a simple 5-step loop.
 ---
 
 ## 3. Career Scope, Salary & Market Demand (8 Minutes)
-
-### Speaker Goal
-Motivate learners by highlighting job security, salary potential, and accessibility.
 
 ### Key Talking Points
 
@@ -88,30 +77,15 @@ Motivate learners by highlighting job security, salary potential, and accessibil
 
 ## 4. Course Roadmap & How You Will Learn (4 Minutes)
 
-### Speaker Goal
-Build confidence in your training methodology.
-
 ### Key Highlights to Mention
 
 * **80% Practical / 20% Theory:** Hands-on lab execution in every single module.
 * **Real-Time Project:** Students will build an end-to-end automated deployment pipeline from scratch.
-* **Cloud Infrastructure Included:** Hands-on practice using real AWS cloud environments.
+* **Cloud Infrastructure Included:** Hands-on practice using real **Azure** cloud environments.
 * **Career Support:** Resume building, interview prep questions, and mock interview guidance.
 
 ---
 
 ## 5. Q&A and Next Steps (3 Minutes)
 
-### Speaker Goal
-Address common beginner fears and close the session with a clear Call to Action.
 
-### Top FAQs to Address Proactively
-
-* **Q: "I have a career gap or non-IT background. Can I switch?"**
-  * *Answer:* Yes, DevOps focuses on practical skills and tool mastery rather than past background.
-* **Q: "How long will it take to master?"**
-  * *Answer:* With regular practice and structured training, you can become job-ready in 2.5 to 3 months.
-
-### Closing Action (Call to Action)
-* Share batch start dates and timings.
-* Provide enrollment link or contact details for registration.
