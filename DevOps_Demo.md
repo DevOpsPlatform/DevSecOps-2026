@@ -43,7 +43,7 @@ Show how software moves from an idea to production using a simple 5-step loop.
 
 ```
 [ Plan & Code ] ---> [ Build & Test ] ---> [ Package ] ---> [ Deploy ] ---> [ Monitor ]
-   (Git/GitHub)          (Jenkins)          (Docker)     (Kubernetes)    (Grafana)
+   (Git/GitHub)          (GitHub Actions)          (Docker)     (Kubernetes)    (Grafana)
 ```
 
 ### Key Stages & Tool Intro (Explain in Simple Language)
